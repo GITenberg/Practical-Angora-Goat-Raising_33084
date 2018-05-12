@@ -1,0 +1,19 @@
+_repo: Practical-Angora-Goat-Raising_33084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Angora goat'
+title: Practical Angora Goat Raising
+url: http://www.gutenberg.org/ebooks/33084
